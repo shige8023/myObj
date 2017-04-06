@@ -66,7 +66,7 @@ email:1001years@sina.cn
 
 	责任描述：1.与公司产品经理和设计人员沟通，了解项目需求，制定切实可行的实施方案。 2.根据产品部门的原型图完成页面的开发。 
 
-	 项目主要使用技术：angular2+typescript+webpack；
+	项目主要使用技术：angular2+typescript+webpack；
      
 * 项目名称 : 旅游卡项目
 
@@ -74,7 +74,7 @@ email:1001years@sina.cn
     
   	项目描述：蛋壳旅游合作项目，用户在蛋壳购买旅游卡，将账号密码绑定后，可在平台安排出行计划；
     
-	项目职责：与设计人员进行交流，根据设计人员提供psd图完成项目； 负责首页、弹框等组件开发，部分JS模块开发、项目动画开发；负责向项目组长及时反馈项目开发中的情况，并根据实际情况提出改进建议； 
+	项目职责：与设计人员进行交流，根据设计人员提供psd图完成项目； 负责首页、弹框等组件开发，部分JS模块开发、项目动画开发；负责向项目组长及时反 馈项目开发中的情况，并根据实际情况提出改进建议； 
 
 	项目主要使用技术：Vue2.0+VueRouter2.0+webpack+ES6+Babel；
 	
@@ -173,11 +173,11 @@ email:1001years@sina.cn
 
 ```markdown
 var RMB;
-if ( RMB>=13000 ) { 
+if ( RMB>=15000 ) { 
      console.log('very happy');
- } else if ( RMB>=11000&&RMB<=13000 ) { 
+ } else if ( RMB>=13000&&RMB<=15000 ) { 
      console.log('happy') ;
- }else if( RMB<=11000 ) { 
+ }else if( RMB<=13000 ) { 
      console.log('crying');
  }
  ```
