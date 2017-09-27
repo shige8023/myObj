@@ -1,7 +1,7 @@
 ## 我的简历
 
 ### 联系方式：
-tel:18141921824
+tel:17665436226
 
 email:1001years@sina.cn
 ### 基本信息
@@ -13,17 +13,18 @@ email:1001years@sina.cn
 
 毕业院校：北华航天工业学院
 
-工作经历：2014.10~至今  上海吾逗网络科技有限公司
+工作经历：2014.10~2017.01  上海吾逗网络科技有限公司
+2017.04~至今  福建坐视布管网络科技有限公司
 ### 自我评价
 
 1. 移动端开发经验，SPA、WebAPP、微信小程序开发经验，移动端兼容性经验;
 2. 熟练使用Vue1.0/Vue2.0，Angular1/Angular2，独立开发常用组件和模块；
-3. 熟悉基于node作为中间层渲染（SSR）的前后端分离开发模式；
+3. 熟悉基于node作为中间层渲染（SSR）的前后端分离开发模式（nuxt）；
 4. 熟练使用markdown编写文档；
-4. 比产品经理更注重用户体验；
-5. 关注并活跃在多个技术社区，如github、stackoverflow、segmentfault、知乎等，对新技术有强烈的好奇心；
-6. 抽丝剥茧式解决问题；
-7. 性格懒散，大多数工作中遇到的问题或者奇思妙想随手记在云笔记上，却疏于整理；
+5. 注重用户体验；
+6. 关注并活跃在多个技术社区，如github、stackoverflow、segmentfault、知乎等，对新技术有强烈的好奇心；
+7. 抽丝剥茧式解决问题；
+8. 性格懒散，大多数工作中遇到的问题或者奇思妙想随手记在云笔记上，却疏于整理；
 
 ### 专业技能
 
@@ -39,7 +40,8 @@ email:1001years@sina.cn
 {"webpack":true},
 {"gulp":true}, 
 {"sass":true},
-{"charles":true} 
+{"charles":true},
+{"git":true}
 ], 
 "library":[ 
 {"JQuery":true}, 
@@ -60,6 +62,20 @@ email:1001years@sina.cn
 * [github](https://github.com/tiamoyajie)
 
 ### 项目经验
+* 项目名称: leisikong 
+
+	项目描述: 蕾丝行业的tmall；
+
+	责任描述：1.技术框架的搭建；2.公共组件的编写；3.项目进度的把控 
+
+	项目主要使用技术：vue2+vuex+nuxt+axios+ES2016/2017+eleUI+postcss-salad+webpack；
+* 项目名称: tongsou57PC www.ts57.cn 
+
+	项目描述: 蕾丝行业的阿里巴巴；
+
+	责任描述：1.技术框架的搭建；2.公共组件的编写；3.项目进度的把控 
+
+	项目主要使用技术：vue2+vuex+axios+ES2016/2017+webpack；
 * 项目名称: 思酷在线教育PC版 
 
 	项目描述: 企业在线教育培训课堂。 分为课程、班级、闯关、资讯、圈子、个人中心等几个模块；
