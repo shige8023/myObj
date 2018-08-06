@@ -3,7 +3,7 @@
 ### 联系方式：
 tel:17665436226
 
-email:1001years@sina.cn
+email:years8023@gmail.com
 ### 基本信息
 姓名：刘一飞
 
@@ -17,14 +17,13 @@ email:1001years@sina.cn
 	 2017.04-至今  丽晶软件科技股份有限公司
 ### 自我评价
 
-1. 移动端开发经验，SPA、WebAPP、微信小程序开发经验，移动端兼容性经验;
-2. 熟练使用Vue1.0/Vue2.0，Angular1/Angular2，独立开发常用组件和模块；
-3. 熟悉基于node作为中间层渲染（SSR）的前后端分离开发模式（nuxt）；
-4. 熟练使用markdown编写文档；
-5. 注重用户体验；
-6. 关注并活跃在多个技术社区，如github、stackoverflow、segmentfault、知乎等，对新技术有强烈的好奇心；
-7. 抽丝剥茧式解决问题；
-8. 性格懒散，大多数工作中遇到的问题或者奇思妙想随手记在云笔记上，却疏于整理；
+1.移动端开发经验，SPA、WebAPP、移动端兼容性经验; 
+2.多个微信小程序开发经验（巨牛跟单，类包你说项目，在线听歌类小程序，珠江啤酒数字兑奖）
+3.熟练使用多个技术栈: vue+vueRouter+vuex+nuxt/angular+typescript/react+dva+antd;
+4.熟练使用markdown编写文档（https://shige8023.github.io/webRules）； 
+5.注重用户体验，追求代码的优雅和健壮性； 
+6.关注并活跃在多个技术社区，如github、stackoverflow、segmentfault、知乎等，对新技术有强烈的好奇心； 
+7.抽丝剥茧式解决问题；
 
 ### 专业技能
 
@@ -59,21 +58,21 @@ email:1001years@sina.cn
 
 ### 博客地址
 * [Blog](http://www.cnblogs.com/ricoliu/)
-* [github](https://github.com/tiamoyajie)
+* [github](https://github.com/shige8023)
 
 ### 项目经验
-* 项目名称: leisikong 
+* 项目名称: 巨牛云厂 （http://factory.myjuniu.com/）/巨牛尖货/巨牛旺铺 
 
 	项目描述: 蕾丝行业的tmall；
 
-	责任描述：1.技术框架的搭建；2.公共组件的编写；3.项目进度的把控 
+	责任描述：1.参与产品部门的需求评审工作；2.任务的分派；3.新需求迭代开发；4.公共组件库的开发和维护工作；5.把控项目代码质量和进度
 
-	项目主要使用技术：vue2+vuex+nuxt+axios+ES2016/2017+eleUI+postcss-salad+webpack；
-* 项目名称: tongsou57PC www.ts57.cn 
+	项目主要使用技术：Vue2.0+Vuex+axios+Es2016/Es2017+webpack;
+* 项目名称: 吾逗APP 1.0～3.0（webApp）（上海吾逗）
 
-	项目描述: 蕾丝行业的阿里巴巴；
+	项目描述: 大学生兼职平台，天使轮融资1300w，日最高pv38w，项目的web部分主要基于微信端，此外还有一个管理系统和运营系统。1.0版本使用zepto+isScroll+fastClick+ajax技术栈，开发过程中遇到比较难忘的问题为，iPhone系统下，用户自拍上传头像会出现顺时针翻转90度的情况，最后处理方式为，用户上传头像时通过navigator判断系统类别做了兼容处理；2.0/3.0系统以vue技术栈进行了重构，开发过程遇到比较困难的情况为，当时国内并没有成熟的vue脚手架，项目组小伙伴通过不断的查看GitHub上其他用户上传的webpack配置，一步步完成出适合自己项目的脚手架配置。
 
-	责任描述：1.技术框架的搭建；2.公共组件的编写；3.项目进度的把控 
+	责任描述：1.负责项目所有表单控件的开发；2.负责项目所有CSS3动画效果；3.负责项目【任务】模块的开发与维护工作；
 
 	项目主要使用技术：vue2+vuex+axios+ES2016/2017+webpack；
 * 项目名称: 思酷在线教育PC版 
@@ -101,18 +100,6 @@ email:1001years@sina.cn
 	项目主要使用技术：wxml、wxss、js；
 
 	一些坑：高度100%不适用、数据更新视图需要手动调用setdata()、不支持eval()等；
-	
-* 项目名称 : 5dou WebAPP2.0  
-
-	项目地址：http://h5.5dou.cn/
-
-	项目时长 : 6个月  
-
-	项目描述：吾逗2.0版本，新增功能流量充值、微信支付宝提现余额、用户签到、深度任务卡等功能。 
-
-	项目职责：与设计人员进行交流，根据设计人员提供psd图完成项目； 负责登录注册、深度任务卡、排行榜等组件开发，部分公共JS开发、项目动画开发；负责向项目组长及时反馈项目开发中的情况，并根据实际情况提出改进建议； 
-
-	项目主要使用技术：Vue1.0+VueRouter1.0+webpack+ES6+Babel；
 	
 * 项目名称 : 筑梦工程 
 
@@ -189,11 +176,11 @@ email:1001years@sina.cn
 
 ```markdown
 var RMB;
-if ( RMB>=15000 ) { 
+if ( RMB>=18000 ) { 
      console.log('very happy');
- } else if ( RMB>=13000&&RMB<=15000 ) { 
+ } else if ( RMB>=15000&&RMB<=18000 ) { 
      console.log('happy') ;
- }else if( RMB<=13000 ) { 
+ }else if( RMB<=15000 ) { 
      console.log('crying');
  }
  ```
